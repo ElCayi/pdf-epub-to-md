@@ -1,0 +1,26 @@
+# Archivos generados por Python y entornos locales.
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Entornos Nix y configuración privada local.
+.direnv/
+.devenv*
+result
+result-*
+.env
+.env.*
+!.env.example
+.aws/
+
+# Libros, imágenes extraídas y copias históricas locales.
+*.pdf
+*.PDF
+*.epub
+*.EPUB
+img/
+backups/
